@@ -1,6 +1,4 @@
-# ConvolutionMedicalNer
-
-Implementation for Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning
+# Implementation for Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning
 
 
 ## Usage
